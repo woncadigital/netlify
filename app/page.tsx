@@ -24,7 +24,7 @@ export default function Home() {
       <Link href="https://www.correios.com.br/" target="_blank">
         App Correios
       </Link>
-      <Link href="https://www.sitecorreios.combr/cep" target="_blank">
+      <Link href="https://www.sitecorreios.com.br/cep" target="_blank">
         Busca CEP
       </Link>
       <h2 className="text-2xl font-bold mt-10">Rastreamento sem Captcha</h2>
